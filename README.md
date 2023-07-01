@@ -1,2 +1,2 @@
 # HackerRank_Regex
-Solution for Regex
+Problems collection: https://www.hackerrank.com/domains/regex
